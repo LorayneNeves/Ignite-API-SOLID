@@ -23,7 +23,7 @@ export default defineConfig({
         },
       },
     ],
-/*     globals: true,
-    watch: true, */
+    globals: true,
+    watch: true,
   },
 });
